@@ -1,0 +1,65 @@
+{
+  "version": 2,
+  "plugins": {
+    "frontend-design@claude-plugins-official": [
+      {
+        "scope": "user",
+        "installPath": "/home/leon/.claude/plugins/cache/claude-plugins-official/frontend-design/55b58ec6e564",
+        "version": "55b58ec6e564",
+        "installedAt": "2026-03-02T19:07:52.043Z",
+        "lastUpdated": "2026-03-02T19:07:52.043Z",
+        "gitCommitSha": "55b58ec6e5649104f926ba7558b567dc8d33c5ff"
+      }
+    ],
+    "context7@claude-plugins-official": [
+      {
+        "scope": "user",
+        "installPath": "/home/leon/.claude/plugins/cache/claude-plugins-official/context7/55b58ec6e564",
+        "version": "55b58ec6e564",
+        "installedAt": "2026-03-02T19:07:52.061Z",
+        "lastUpdated": "2026-03-02T19:07:52.061Z",
+        "gitCommitSha": "55b58ec6e5649104f926ba7558b567dc8d33c5ff"
+      }
+    ],
+    "playwright@claude-plugins-official": [
+      {
+        "scope": "user",
+        "installPath": "/home/leon/.claude/plugins/cache/claude-plugins-official/playwright/55b58ec6e564",
+        "version": "55b58ec6e564",
+        "installedAt": "2026-03-02T19:07:52.072Z",
+        "lastUpdated": "2026-03-02T19:07:52.072Z",
+        "gitCommitSha": "55b58ec6e5649104f926ba7558b567dc8d33c5ff"
+      }
+    ],
+    "security-guidance@claude-plugins-official": [
+      {
+        "scope": "user",
+        "installPath": "/home/leon/.claude/plugins/cache/claude-plugins-official/security-guidance/55b58ec6e564",
+        "version": "55b58ec6e564",
+        "installedAt": "2026-03-02T19:07:52.085Z",
+        "lastUpdated": "2026-03-02T19:07:52.085Z",
+        "gitCommitSha": "55b58ec6e5649104f926ba7558b567dc8d33c5ff"
+      }
+    ],
+    "pyright-lsp@claude-plugins-official": [
+      {
+        "scope": "user",
+        "installPath": "/home/leon/.claude/plugins/cache/claude-plugins-official/pyright-lsp/1.0.0",
+        "version": "1.0.0",
+        "installedAt": "2026-03-02T19:07:52.095Z",
+        "lastUpdated": "2026-03-02T19:07:52.095Z",
+        "gitCommitSha": "55b58ec6e5649104f926ba7558b567dc8d33c5ff"
+      }
+    ],
+    "hookify@claude-plugins-official": [
+      {
+        "scope": "user",
+        "installPath": "/home/leon/.claude/plugins/cache/claude-plugins-official/hookify/55b58ec6e564",
+        "version": "55b58ec6e564",
+        "installedAt": "2026-03-02T19:07:52.110Z",
+        "lastUpdated": "2026-03-02T19:07:52.110Z",
+        "gitCommitSha": "55b58ec6e5649104f926ba7558b567dc8d33c5ff"
+      }
+    ]
+  }
+}

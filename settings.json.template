@@ -1,0 +1,30 @@
+{
+  "env": {
+    "ANTHROPIC_BASE_URL": "https://litellm.lan",
+    "ANTHROPIC_AUTH_TOKEN": "<YOUR_AUTH_TOKEN>",
+    "ANTHROPIC_API_KEY": "<YOUR_API_KEY>",
+    "ANTHROPIC_DEFAULT_SONNET_MODEL": "claude-sonnet-4-5",
+    "ANTHROPIC_DEFAULT_OPUS_MODEL": "claude-opus-4-6",
+    "ANTHROPIC_DEFAULT_HAIKU_MODEL": "claude-haiku-4-5-20251001-bedrock",
+    "DISABLE_AUTOUPDATER": "1",
+    "NODE_EXTRA_CA_CERTS": "/etc/ssl/certs/ca-certificates.crt",
+    "CLAUDE_PLUGIN_ROOT": "/home/leon/.claude"
+  },
+  "permissions": {
+    "allow": [],
+    "deny": []
+  },
+  "model": "opus",
+  "statusLine": {
+    "type": "command",
+    "command": "~/.claude/statusline_command.sh"
+  },
+  "enabledPlugins": {
+    "frontend-design@claude-plugins-official": true,
+    "context7@claude-plugins-official": false,
+    "playwright@claude-plugins-official": false,
+    "security-guidance@claude-plugins-official": true,
+    "pyright-lsp@claude-plugins-official": true,
+    "hookify@claude-plugins-official": true
+  }
+}

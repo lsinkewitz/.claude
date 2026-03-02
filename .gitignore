@@ -1,0 +1,50 @@
+# Ignore everything by default
+*
+
+# === SECRETS - NEVER COMMIT ===
+!*.template
+settings.json
+
+# === Whitelist: tracked config ===
+!.gitignore
+!.claude/
+!.claude/**
+!setup.sh
+!settings.json.template
+!statusline_command.sh
+
+# Agents
+!agents/
+!agents/**
+!.agents/
+!.agents/**
+
+# Commands
+!commands/
+!commands/**
+
+# Skills
+!skills/
+!skills/**
+
+# Hooks
+!hooks/
+!hooks/**
+
+# Contexts
+!contexts/
+!contexts/**
+
+# Scripts
+!scripts/
+!scripts/**
+
+# Docs
+!docs/
+!docs/**
+
+# Plugin metadata only (not downloaded content)
+!plugins/
+!plugins/blocklist.json
+!plugins/installed_plugins.json
+!plugins/known_marketplaces.json
