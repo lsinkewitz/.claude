@@ -32,6 +32,10 @@ settings.json
 !hooks/
 !hooks/**
 
+# Rules
+!rules/
+!rules/**
+
 # Contexts
 !contexts/
 !contexts/**
